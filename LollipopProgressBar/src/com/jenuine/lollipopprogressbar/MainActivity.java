@@ -26,7 +26,7 @@ public class MainActivity extends Activity {
 			@Override
 			public void run() {
 
-				// Block this thread for 5 seconds.
+				// in diffrent time am changing the background
 				
 				
 				try {
